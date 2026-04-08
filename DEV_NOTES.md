@@ -8,3 +8,8 @@ Personal development log — notes, findings, and ongoing work.
 
 ## 2026-04-08
 - Wrote notes on upcoming feature design
+
+## 2026-04-08
+- Fixed off-by-one error in loop
+- Tidied up project structure
+- Added type hints to helper functions
